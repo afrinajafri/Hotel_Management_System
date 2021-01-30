@@ -1,0 +1,39 @@
+=========================== E-REPORT =========================== 
+
+
+TOTAL CUSTOMER
+
+
+Deluxed Single Room
+Total Customer(s) : 2 customer(s)
+Total Sales = RM 508.80
+
+
+Kids Suite Room
+Total Customer(s) : 1 customer(s)
+Total Sales = RM 2750.70
+
+
+Studio Suite Room
+Total Customer(s) : 0 customer(s)
+Total Sales = RM 0.00
+
+
+Premiere Suite Room
+Total Customer(s) : 1 customer(s)
+Total Sales = RM 1084.38
+
+
+Three-Bedroom Apartment
+Total Customer(s) : 3 customer(s)
+Total Sales = RM 6623.62
+
+
+Total Sales = RM 10967.50
+
+
+Company Tax (10%) = RM 1096.75
+
+
+Grand Total Sales = RM 9870.75
+================================================================= 

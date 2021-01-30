@@ -1,0 +1,168 @@
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: T2
+NAME	: AREP
+PHONE NUMBER	: 0152644826
+ADDRESS	: SELANGOR
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 21/1/2021
+NUMBER OF DAY(S) : 3 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 85.86
+***************************************************
+TOTAL BEFORE TAX : RM 1431.00
+TOTAL AFTER TAX : RM 1516.86
+===================================================
+GRAND TOTAL: RM 1516.86
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: K1
+NAME	: HAFIZ
+PHONE NUMBER	: 0192847753
+ADDRESS	: SEGAMAT
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 23/1/2021
+NUMBER OF DAY(S) : 5 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 143.10
+***************************************************
+TOTAL BEFORE TAX : RM 2385.00
+TOTAL AFTER TAX : RM 2528.10
+===================================================
+GRAND TOTAL: RM 2750.70
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: T1
+NAME	: MUAZ WAZIR
+PHONE NUMBER	: 0172644639
+ADDRESS	: SHAH ALAM
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 25/1/2021
+NUMBER OF DAY(S) : 7 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 200.34
+***************************************************
+TOTAL BEFORE TAX : RM 3339.00
+TOTAL AFTER TAX : RM 3539.34
+===================================================
+GRAND TOTAL: RM 3539.34
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: D3
+NAME	: NABILA HUDA
+PHONE NUMBER	: 0173866459
+ADDRESS	: KLANG
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 22/1/2021
+NUMBER OF DAY(S) : 4 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 114.48
+***************************************************
+TOTAL BEFORE TAX : RM 1908.00
+TOTAL AFTER TAX : RM 2022.48
+===================================================
+GRAND TOTAL: RM 339.20
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: P1
+NAME	: NUQMAN
+PHONE NUMBER	: 0192766439
+ADDRESS	: SHAH ALAM
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 21/1/2021
+NUMBER OF DAY(S) : 3 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 85.86
+***************************************************
+TOTAL BEFORE TAX : RM 1431.00
+TOTAL AFTER TAX : RM 1516.86
+===================================================
+GRAND TOTAL: RM 1084.38
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: T10
+NAME	: NUR AFRINA
+PHONE NUMBER	: 0172867327
+ADDRESS	: SELANGOR
+CHECK IN DATE	: 5/2/2021
+CHECK OUT DATE	: 7/2/2021
+NUMBER OF DAY(S) : 3 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 85.86
+***************************************************
+TOTAL BEFORE TAX : RM 1431.00
+TOTAL AFTER TAX : RM 1516.86
+===================================================
+GRAND TOTAL: RM 1567.42
+===================================================
+
+
+
+
+***************************************************
+                 BOOKING RECEIPT              
+***************************************************
+
+TYPE OF ROOM : Three-Bedroom Apartment
+ROOM NUMBER	: D2
+NAME	: SARAH SOFIYA
+PHONE NUMBER	: 0192877322
+ADDRESS	: SELANGOR
+CHECK IN DATE	: 19/1/2021
+CHECK OUT DATE	: 20/1/2021
+NUMBER OF DAY(S) : 2 days(s)
+ROOM PRICE: RM 477.00
+TAX (6%) : RM 57.24
+***************************************************
+TOTAL BEFORE TAX : RM 954.00
+TOTAL AFTER TAX : RM 1011.24
+===================================================
+GRAND TOTAL: RM 169.60
+===================================================
+
+
+
+

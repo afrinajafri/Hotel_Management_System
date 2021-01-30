@@ -1,0 +1,50 @@
+D;Deluxed Single Room;1;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;2;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;3;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;4;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;5;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;6;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;7;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;8;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;9;1 Single Bed;1 Adult 1 Children;80.00
+D;Deluxed Single Room;10;1 Single Bed;1 Adult 1 Children;70.00 
+K;Kids Suite Room;1;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;2;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;3;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;4;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;5;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;6;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;7;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;8;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;9;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+K;Kids Suite Room;10;1 Double Bed 1 Bunk Bed;4 Adults 3 Children;519.00
+S;Studio Suite Room;1;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;2;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;3;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;4;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;5;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;6;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;7;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;8;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;9;2 Single Beds;2 Adults 2 Children;170.00
+S;Studio Suite Room;10;2 Single Beds;2 Adults 2 Children;170.00
+P;Premiere Suite Room;1;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;2;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;3;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;4;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;5;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;6;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;7;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;8;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;9;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+P;Premiere Suite Room;10;1 Extra-Large Double Beds;2 Adult 2 Children;341.00
+T;Three-Bedroom Apartment;1;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;2;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;3;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;4;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;5;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;6;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;7;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;8;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;9;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
+T;Three-Bedroom Apartment;10;Bedroom 1 - 1 Extra-Large Double Beds Bedroom;7 Adult 3 Children;477.00
